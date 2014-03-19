@@ -18,12 +18,15 @@ public class Program {
      *            Command line arguments
      */
      
-     //I am editing this program.BENBENEBENEBEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+     //I am editing this program.BENBENEBENEBEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE#
+     //pgvbiojsfbijfbjifbfjbjfbfib
+     
     public static void main(String[] args) {
 
 	try {
 	    GameLogic game = null;
 	    Runnable user = null;
+	    String parsnip = "HELLO WORLD";
 
 	    switch (args.length) {
 	    case 0:
