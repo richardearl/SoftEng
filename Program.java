@@ -4,6 +4,7 @@ import java.text.ParseException;
 
 import dod.game.GameLogic;
 // has this worked?
+//test 2
 
 /**
  * Class to handle command line arguments and initialise the correct instances.
