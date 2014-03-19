@@ -3,6 +3,7 @@ package dod;
 import java.text.ParseException;
 
 import dod.game.GameLogic;
+// has this worked?
 
 /**
  * Class to handle command line arguments and initialise the correct instances.
