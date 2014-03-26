@@ -1,0 +1,4 @@
+Contacts app: http://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=7088&lngWId=2
+At the moment, it has no GUI but it looks like it could be easily implemented.
+When the program creates a new contact it also does not encrypt the data.
+It needs a verification check when entering a phone number.
