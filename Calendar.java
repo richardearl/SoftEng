@@ -1,4 +1,3 @@
-
 public class Calendar {
   //Calendar should be a list of all days that can have multiple instances of appointment added to each day
   public Calendar(){
@@ -25,6 +24,14 @@ public class Calendar {
         a.delete();
       }
     }
+  }
+  
+  public void userInput(){
+    Scanner scan = new Scanner();
+    System.out.println("Press 1 to add an Appointment");
+    System.out.println("Press 2 to add an Remove");
+    System.out.println("Press 3 to view the calendar");
+    
   }
   
 }
