@@ -25,7 +25,7 @@ public class Calendar {
       }
     }
   }
-  public void printAppointment(){
+  public void printAppointments(){
     //prints all appointments
     int x = 0;
     while(x<366){
@@ -50,7 +50,7 @@ public class Calendar {
         delAppointment(int day, String name)
     }
     if(input.equals("3")){
-      
+       printAppointments()
     }
   }
   
